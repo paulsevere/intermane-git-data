@@ -1,0 +1,37 @@
+{
+  "paperlessPreferences": [
+    {
+      "discountEligible": false,
+      "discountEligibleOnRenewal": false,
+      "isByMile": false,
+      "policyLOB": "AUTO",
+      "policyNickname": "My Auto",
+      "policyNumber": "AD121832314530",
+      "policyOnBillingAccount": false,
+      "policyType": "AUTO",
+      "preferences": [{ "eligible": false, "type": "Billing", "value": true }, { "eligible": true, "type": "Policy", "value": true }]
+    },
+    {
+      "discountEligible": false,
+      "discountEligibleOnRenewal": false,
+      "isByMile": false,
+      "policyLOB": "HOME",
+      "policyNickname": "My Home",
+      "policyNumber": "H3S21814023970",
+      "policyOnBillingAccount": false,
+      "policyType": "HOMEOWNER",
+      "preferences": [{ "eligible": true, "type": "Policy", "value": true }, { "eligible": false, "type": "Billing", "value": false }]
+    },
+    {
+      "discountEligible": false,
+      "discountEligibleOnRenewal": false,
+      "isByMile": false,
+      "policyLOB": "HOME",
+      "policyNickname": "My Condo",
+      "policyNumber": "H6521833435770",
+      "policyOnBillingAccount": false,
+      "policyType": "CONDO",
+      "preferences": [{ "eligible": false, "type": "Billing", "value": true }, { "eligible": true, "type": "Policy", "value": true }]
+    }
+  ]
+}
